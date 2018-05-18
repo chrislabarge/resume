@@ -5,7 +5,8 @@
 - [github.com/chrislabarge](http://github.com/chrislabarge)
 
 ## What I Do
-I am a web developer from Albany NY who enjoys building new things with new people. I started coding when I was 24 years old, and became instantly hooked.  Six years later and I am still just as enthused and driven as ever. I primarily use Rails for appplication development and Ruby for workflow solutions & scripting. Although I love the Ruby language and its smaller fameworks like Sinatra, I have also built solutions for customers in C# and worked with languages like GO and PHP.  I have great people skills and am able to break things down for both developers and non-developers alike.  I am a hard worker, and want to apply my knowledge to become an asset for you and your team.
+
+I am a web developer from Albany NY who enjoys building new things with new people. I started coding when I was 24 years old and became instantly hooked. Now, six years later I am still just as enthused and driven as ever. I primarily use Rails for appplication development and Ruby for workflow solutions & scripting. Although I love the Ruby language and its smaller fameworks like Sinatra, I have also built solutions for customers in C# and worked with languages like GO and PHP.  I take pride in my problem solving abillities and communication skills with developers and non-developers alike.  I am a hard worker, and want to apply my knowledge to become an asset for you and your team.
 
 ## Tools I Use
 
@@ -17,7 +18,6 @@ I am a web developer from Albany NY who enjoys building new things with new peop
 - **Frameworks**: Ubuntu – i3wm – Zsh – Vim
 
 ## Experience
-
 
 ### MenuBerry, Albany NY
 *November 2016  - PRESENT* | [menuberry.org](https://www.menuberry.org) | *Creator/Developer*
