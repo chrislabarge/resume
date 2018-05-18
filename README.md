@@ -15,7 +15,7 @@ I am a web developer from Albany NY who enjoys building new things with new peop
 - **Version Control**: git - Github - Bitbucket
 - **Testing**: Rspec - Capybara - PhantomJS - Selenium
 - **Front End**: Semantic UI - Bootstrap - JQuery
-- **Frameworks**: Ubuntu – i3wm – Zsh – Vim
+- **Development Environment**: Ubuntu – i3wm – Zsh – Vim
 
 ## Experience
 
